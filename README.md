@@ -1,7 +1,4 @@
-![Yassine Achour Banner](https://raw.githubusercontent.com/your-username/your-repo/main/assets/banner.png)
-
-<img alt="Hi" src="./assets/Hand%20Wave.gif" width="40" align="left"/>
-<h2 align="left">Hey there! I'm Yassine Achour</h2>
+<h2 align="left">I'm Yassine Achour</h2>
 
 ### 👨🏻‍💻 About Me
 
